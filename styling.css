@@ -1,0 +1,156 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,700&display=swap");
+
+
+
+
+.groupedbuttons{
+    display: block;
+}
+
+button{
+               
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-right: 30px;
+    padding-left: 10px;
+    font-size: 20;
+    font-weight: bold;
+    
+}
+
+.Home-button{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+
+
+.background-image {
+  background-image:url("hat2.jpg");
+  background-size: cover;
+  /*background-repeat: no-repeat;*/
+  border-color: white;
+  
+  height:100vh;
+  padding: 20px; 
+
+
+ 
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.logosect{ 
+   
+    width: 800px;
+    display: inline-block;
+    vertical-align: right;
+    margin-left: 300px;
+    margin-top: 200px;
+    
+    
+
+} 
+.logo{
+    width: 100%;
+}
+
+.m-button{
+    height: 60px;
+    width: 60px;
+    float: left;
+    margin: 10px;
+    cursor: pointer;
+    background: #fff;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 10px 10px
+    rgba(0,0,0,0.1);
+}
+
+.m-button .icon{
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+    transition: all 0.3s ease-in-out;
+    text-align: center;
+}
+
+.m-button .icon i{
+    font-size: 25px;
+   
+    line-height: 60px;
+
+}
+
+.m-button span{
+
+font-size: 20px;
+font-weight: 500;
+line-height: 60px;
+margin-left: 10px;
+font-family: 'Poppins',sans-serif;
+
+}
+
+.m-button:nth-child(1):hover .icon{
+    background:#e1306c ;
+}
+
+.m-button:nth-child(2):hover .icon{
+    background: #4267b2; ;
+}
+
+.m-button:nth-child(3):hover .icon{
+    background:#1da1f2 ;
+}
+
+.m-button:nth-child(4):hover .icon{
+    background:#0e76a8 ;
+}
+
+.m-button:nth-child(5):hover .icon{
+    background:#ff0000 ;
+}
+
+.m-button:nth-child(6):hover .icon{
+    background:#333 ;
+}
+
+
+.m-button:nth-child(1) span{
+   color:#e1306c ;
+}
+
+.m-button:nth-child(2) span{
+    color: #4267b2; ;
+}
+
+.m-button:nth-child(3) span{
+    color:#1da1f2 ;
+}
+
+.m-button:nth-child(4) span{
+    color:#0e76a8 ;
+}
+
+
+
+.m-button:nth-child(6) span{
+    color:#333 ;
+}
+
+
+
+.m-button:hover{
+    width: 200px;
+}
+
+
+

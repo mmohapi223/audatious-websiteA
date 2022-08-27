@@ -1,0 +1,62 @@
+.prodeta {
+    height: 900px;
+}
+
+.img1 {
+    background-image: url("many.jpeg");
+    
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.img2 {
+
+    background-image: url("youthA.jpeg");
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;    
+
+}
+
+.img1a {
+    background-image: url("gift_kids.jpeg");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img2a {
+
+    background-image: url("sanitary.jpeg");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.imgb {
+
+    background-image: url("Enterp.jpeg");
+    
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.imgasec2 {
+    background-image: url("cert_kids.jpeg");
+    
+    background-repeat: no-repeat;
+    background-size: cover
+
+}
+
+.prodeta1{
+    height: 900px; 
+    background-image: url("writting.jpeg");
+    
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    background-position: bottom;
+}

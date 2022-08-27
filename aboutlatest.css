@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.des {
+    
+    background-color: lightskyblue;
+    border-width: 5px;
+    border-radius: 10px;
+    display: block;
+    margin-bottom: 100px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    color: black;
+}
+
+.prof-bio {
+    background-color: bisque;
+    display: block;
+    margin-left: 20px;
+    border-radius: 10px;
+   
+    margin-bottom: 10px;
+    margin-right: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.further-des {
+    background-color: none;
+    display: block;
+    
+    width: 90%;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.bio1,.bio2,.bio3,.bio4,.bio5 ,.bio6{
+    height: 300px;
+       
+}
+
+ .bi {
+background-color: aliceblue;
+
+}
+
+body {
+    background-color: aliceblue;
+}
+
+
+
+/*.bi1 {
+
+    background-image: url("niceback.webp");
+    background-size: cover;
+    height: 100vh;
+   
+
+}
+*/
+
+
+.pic1{
+    background-image: url("pic-a.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.pic2 {
+    background-image: url("pic-b.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.pic3{
+    background-image: url("pic-c.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.pic4 {
+    background-image: url("pic-d.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.pic5 {
+    background-image: url("pic-e.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.pic6 {
+    background-image: url("pic-f.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.progs {
+    background-color: lightblue;
+    display: block;
+    width: 96%;
+    margin-top: 10px;
+    
+    margin-left:2%;
+    margin-bottom:10px ;
+    margin-right: 2%;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+
+
+}
+
+.projects {
+    background-color: lightpink;
+    display: block;
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+
+    padding-left: 5px;
+    padding-right: 5px;
+
+    
+   
+    
+
+}
+

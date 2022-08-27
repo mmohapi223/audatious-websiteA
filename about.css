@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.back {
+    width: 100%;
+    height: 100%;
+    /*background-image: url("africabest.jpg");*/
+    background-size:contain;
+    background-color:none;
+    
+    display: block;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.Prof-Bio {
+    background-color: bisque;
+    width: 800px;
+    height: 100%;
+    display: inline-block;
+    margin-right: 10px;
+    
+}
+
+.combo {
+    background-color: gold;
+    width: 1300px;
+    display: block;
+   
+
+}
+
+.full-des {
+
+    width: 50px;
+    background-color: red;
+    height: 100%;
+    
+}
+
+
+.descript {
+    max-width: 80%;
+    height: 200px;
+    background-size:contain;
+    background-color:lightcyan;
+    margin-bottom: 100px;
+    margin: auto;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 30px;
+    text-align: justify;
+    font-size: 20px;
+    display: block;
+}
+
+
+
+
+
+
+.Bio-a,.Bio-b,.Bio-c,.Bio-d,.Bio-e {
+    width: 800px;
+    height: 300px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    background-color:gainsboro;
+    display: inline-block;  
+    
+
+}
+
+.profile-a,.profile-b,.profile-c,.profile-d,.profile-e {
+    width: 300px;
+    height: 100%;
+    background-color:lightcyan;
+    margin-right: 40px;
+    display: inline-block;
+    padding-bottom: 1px;
+    border-radius: 20px;
+
+
+}
+
+.detail-a, .detail-b,.detail-c,.detail-d,.detail-e {
+    width: 400px;
+    height: 100%;
+    
+    display: inline-block;
+    border-radius: 20px;
+    border-color:red ;
+    background-color: lightcyan;
+    vertical-align: top;
+}
+
+.profile-a {
+    background-image: url("pic-a.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.profile-b {
+    background-image: url("pic-b.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.profile-c {
+    background-image: url("pic-c.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.profile-d {
+    background-image: url("pic-d.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.profile-e {
+    background-image: url("pic-e.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+/*.pic-a,pic-b {
+    width: 50%;
+    object-fit:contain;
+}*/
+
+.ta {
+   text-align: center;
+   font-weight: bolder;
+}
