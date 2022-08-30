@@ -35,14 +35,16 @@ button{
 
 }
 .background-image {
-    background-image:url("hat2.jpg");
-    background-size: cover;
+    background-image:url("team-modB.png");
     height: 100vh;
+    background-size: cover;
+    
   background-repeat: no-repeat;
     padding-top: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
     padding-left: 20px; 
+    object-position: center;
 
 
  
@@ -160,7 +162,4 @@ font-family: 'Poppins',sans-serif;
 .m-button:hover{
     width: 200px;
 }
-
-
-
 
