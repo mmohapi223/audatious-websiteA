@@ -39,6 +39,10 @@ button{
 
     background-color: grey;
     height: 100vh;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
    /* background-image:url("hat2.jpg");
     height: 100vh;
     background-size: contain;
@@ -63,14 +67,14 @@ button{
 
 .logosect{ 
    
-    width: 400px;
+    width: 600px;
     display: inline-block;
-    
-    height: 200px;
+
+    height: 400px;
     margin-top: 100px;
     margin-bottom: 50px;
     
-    
+    object-position:center ;
 
 } 
 .logo{
@@ -168,3 +172,4 @@ font-family: 'Poppins',sans-serif;
 .m-button:hover{
     width: 200px;
 }
+
