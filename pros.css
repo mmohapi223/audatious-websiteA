@@ -1,0 +1,45 @@
+.b{
+    background-image: url("bherb.jpeg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+.b1{
+    background-image: url("many.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.er_1{
+    background-image: url("writting.jpeg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.er_2{
+    background-image: url("certnew.jpeg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+.s1{
+    background-image: url("sanitary.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.se1{
+   
+    background-image: url("Enterp.jpeg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 1675px;
+
+}
+
+
+
+
+
